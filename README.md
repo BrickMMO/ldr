@@ -1,6 +1,6 @@
 # BrickMMO LDR Directory
 
-This repo is used as the BrickMMO IO/LDR/MPD Diretory for BRickMMO realted models.. 
+This repo is used as the IO/LDR/MPD CDN for BrickMMO realted IO/LDR/MPD models. Models are build using [BrickLink Studio](https://www.bricklink.com/v3/studio/download.page).
 
 ---
 
