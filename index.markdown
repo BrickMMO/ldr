@@ -12,7 +12,7 @@ Below are the current BrickMMO IO/LDR/MPD files:
 
 ### City Block
 
-Building instructions for a [Smart MILS]() city block:
+Building instructions for a [SCILS](https://scils.brickmmo.com/) city block:
 
 ```
 https://ldr.brickmmo.com/city-block/city-block.io
