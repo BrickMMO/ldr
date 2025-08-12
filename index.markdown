@@ -10,11 +10,27 @@ Include IO/LDR/MPD files by placing using [LDR Viewer](https://pages.codeadam.ca
 
 Below are the current BrickMMO IO/LDR/MPD files:
 
+### City Block
 
+Building instructions for a [Smart MILS]() city block:
 
+```
+https://ldr.brickmmo.com/city-block/city-block.mpd
+```
+
+### Cub Puzzle
+
+Bulding instruyctions for the [Cube Puzzle]():
+
+```
+https://ldr.brickmmo.com/cube-puzzle/cube-puzzle.packed.mpd
+```
 
 ---
 
 <a href="https://brickmmo.com">
 <img src="https://cdn.brickmmo.com/images@1.0.0/brickmmo-logo-coloured-horizontal.png" width="100">
 </a>
+
+<script src="https://cdn.brickmmo.com/bar@1.0.0/bar.js"></script>
+
