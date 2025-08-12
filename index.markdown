@@ -15,6 +15,8 @@ Below are the current BrickMMO IO/LDR/MPD files:
 Building instructions for a [Smart MILS]() city block:
 
 ```
+https://ldr.brickmmo.com/city-block/city-block.io
+https://ldr.brickmmo.com/city-block/city-block.ldr
 https://ldr.brickmmo.com/city-block/city-block.mpd
 ```
 
@@ -23,6 +25,8 @@ https://ldr.brickmmo.com/city-block/city-block.mpd
 Bulding instruyctions for the [Cube Puzzle]():
 
 ```
+https://ldr.brickmmo.com/cube-puzzle/cube-puzzle.packed.io
+https://ldr.brickmmo.com/cube-puzzle/cube-puzzle.packed.ldr
 https://ldr.brickmmo.com/cube-puzzle/cube-puzzle.packed.mpd
 ```
 
