@@ -20,7 +20,7 @@ https://ldr.brickmmo.com/city-block/city-block.ldr
 https://ldr.brickmmo.com/city-block/city-block.mpd
 ```
 
-### Cub Puzzle
+### Cube Puzzle
 
 Bulding instruyctions for the [Cube Puzzle](https://activities.codeadam.ca/cube):
 
