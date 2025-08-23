@@ -14,7 +14,7 @@ Below are the current BrickMMO IO/LDR/MPD files:
 
 Building instructions for a [SCILS](https://scils.brickmmo.com/) city block:
 
-![City Block Studio Files](city-block/city-block.png)
+<img alt="City Block Studio Files" src="city-block/city-block.png" widdth="120">
 
 ```
 https://ldr.brickmmo.com/city-block/city-block.io
