@@ -27,7 +27,7 @@ https://ldr.brickmmo.com/city-block/city-block.png
 
 Bulding instruyctions for the [Cube Puzzle](https://activities.codeadam.ca/cube):
 
-<img alt="Cube Puzzle Studio Files" src="city-block/cube-puzzle.png" width="200">
+<img alt="Cube Puzzle Studio Files" src="cube-puzzle/cube-puzzle.png" width="200">
 
 ```
 https://ldr.brickmmo.com/cube-puzzle/cube-puzzle.io
