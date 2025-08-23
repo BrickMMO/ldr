@@ -20,6 +20,7 @@ Building instructions for a [SCILS](https://scils.brickmmo.com/) city block:
 https://ldr.brickmmo.com/city-block/city-block.io
 https://ldr.brickmmo.com/city-block/city-block.ldr
 https://ldr.brickmmo.com/city-block/city-block.mpd
+https://ldr.brickmmo.com/city-block/city-block.png
 ```
 
 ### Cube Puzzle
