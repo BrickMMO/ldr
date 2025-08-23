@@ -2,6 +2,11 @@
 
 This repo is used as the IO/LDR/MPD CDN for BrickMMO realted IO/LDR/MPD models. Models are build using [BrickLink Studio](https://www.bricklink.com/v3/studio/download.page).
 
+When rendering [Bricklink Studio](https://bricklink.com) models use the following co-ordinates:
+
+![Bricklink Render Coords](_readme/render-coords.png)
+
+
 ---
 
 ## Project Stack
