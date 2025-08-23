@@ -19,7 +19,7 @@ Building instructions for a [SCILS](https://scils.brickmmo.com/) city block:
 ```
 https://ldr.brickmmo.com/city-block/city-block.io
 https://ldr.brickmmo.com/city-block/city-block.ldr
-https://ldr.brickmmo.com/city-block/city-block.mpd
+https://ldr.brickmmo.com/city-block/city-block.packed.mpd
 https://ldr.brickmmo.com/city-block/city-block.png
 ```
 
@@ -27,10 +27,13 @@ https://ldr.brickmmo.com/city-block/city-block.png
 
 Bulding instruyctions for the [Cube Puzzle](https://activities.codeadam.ca/cube):
 
+<img alt="Cube Puzzle Studio Files" src="city-block/cube-puzzle.png" width="200">
+
 ```
-https://ldr.brickmmo.com/cube-puzzle/cube-puzzle.packed.io
-https://ldr.brickmmo.com/cube-puzzle/cube-puzzle.packed.ldr
+https://ldr.brickmmo.com/cube-puzzle/cube-puzzle.io
+https://ldr.brickmmo.com/cube-puzzle/cube-puzzle.ldr
 https://ldr.brickmmo.com/cube-puzzle/cube-puzzle.packed.mpd
+https://ldr.brickmmo.com/cube-puzzle/cube-puzzle.png
 ```
 
 ---
