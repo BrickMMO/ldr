@@ -32,7 +32,7 @@ Building instructions for a [SCILS](https://scils.brickmmo.com/) city block stra
 ```
 https://ldr.brickmmo.com/city-block-road-straight/city-block-road-straight.io
 https://ldr.brickmmo.com/city-block-road-straight/city-block-road-straight.ldr
-https://ldr.brickmmo.com/city-block-road-straight/city-block-road-straigh.packed.mpd
+https://ldr.brickmmo.com/city-block-road-straight/city-block-road-straight.packed.mpd
 https://ldr.brickmmo.com/city-block-road-straight/city-block-road-straight.png
 ```
 
