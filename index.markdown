@@ -25,7 +25,7 @@ https://ldr.brickmmo.com/city-block/city-block.png
 
 ### City Block Straight Road
 
-Building instructions for a [SCILS](https://scils.brickmmo.com/) city block straight raod:
+Building instructions for a [SCILS](https://scils.brickmmo.com/) city block straight road:
 
 <img alt="City Block Studio Files" src="city-block-road-straight/city-block-road-straight.png" width="200">
 
@@ -34,6 +34,19 @@ https://ldr.brickmmo.com/city-block-road-straight/city-block-road-straight.io
 https://ldr.brickmmo.com/city-block-road-straight/city-block-road-straight.ldr
 https://ldr.brickmmo.com/city-block-road-straight/city-block-road-straightock.packed.mpd
 https://ldr.brickmmo.com/city-block-road-straight/city-block-road-straight.png
+```
+
+### City Block Straight Track
+
+Building instructions for a [SCILS](https://scils.brickmmo.com/) city block straight track:
+
+<img alt="City Block Studio Files" src="city-block-track-straight/city-block-track-straight.png" width="200">
+
+```
+https://ldr.brickmmo.com/city-block-track-straight/city-block-track-straight.io
+https://ldr.brickmmo.com/city-block-track-straight/city-block-track-straight.ldr
+https://ldr.brickmmo.com/city-block-track-straight/city-block-track-straightock.packed.mpd
+https://ldr.brickmmo.com/city-block-track-straight/city-block-track-straight.png
 ```
 
 ### Cube Puzzle
