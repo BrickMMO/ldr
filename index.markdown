@@ -12,7 +12,7 @@ Below are the current BrickMMO IO/LDR/MPD files:
 
 ### City Block
 
-Building instructions for a [SCILS](https://scils.brickmmo.com/) city block:
+LDR file assets for a [City Block Fondation](https://scils.brickmmo.com/city-block):
 
 <img alt="City Block Studio Files" src="city-block/city-block.png" width="200">
 
@@ -25,7 +25,7 @@ https://ldr.brickmmo.com/city-block/city-block.png
 
 ### City Block Straight Road
 
-Building instructions for a [SCILS](https://scils.brickmmo.com/) city block straight road:
+LDR file assets for a [City Block Straight Road](https://scils.brickmmo.com/city-block-road-straight):
 
 <img alt="City Block Studio Files" src="city-block-road-straight/city-block-road-straight.png" width="200">
 
@@ -38,7 +38,7 @@ https://ldr.brickmmo.com/city-block-road-straight/city-block-road-straight.png
 
 ### City Block Straight Track
 
-Building instructions for a [SCILS](https://scils.brickmmo.com/) city block straight track:
+LDR file assets for a [City Block Straight Track](https://scils.brickmmo.com/city-block-track-straight):
 
 <img alt="City Block Studio Files" src="city-block-track-straight/city-block-track-straight.png" width="200">
 
@@ -51,7 +51,7 @@ https://ldr.brickmmo.com/city-block-track-straight/city-block-track-straight.png
 
 ### Cube Puzzle
 
-Bulding instruyctions for the [Cube Puzzle](https://activities.codeadam.ca/cube):
+LDR assets for the [Cube Puzzle](https://activities.codeadam.ca/cube):
 
 <img alt="Cube Puzzle Studio Files" src="cube-puzzle/cube-puzzle.png" width="200">
 
