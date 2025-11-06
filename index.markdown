@@ -66,5 +66,12 @@ https://ldr.brickmmo.com/cube-puzzle/cube-puzzle.png
 <img src="https://cdn.brickmmo.com/images@1.0.0/brickmmo-logo-coloured-horizontal.png" width="100" alt="">
 </a>
 
-<_script src="https://cdn.brickmmo.com/bar@1.1.0/bar.js">
+<script 
+    src="https://cdn.brickmmo.com/bar@1.1.0/bar.js"
+    data-console="false"
+    data-menu="false"
+    data-admin="false"
+    data-local="false"
+    data-https="true"
+></script>
 
