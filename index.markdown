@@ -2,11 +2,11 @@
 
 <style>@import url("//cdn.brickmmo.com/readme@1.0.0/readme.css");</style>
 
-BrickMMO LDR Directory is the recommend CDN for all BrickMMO related IO/LDR/MPD files. Include IO/LDR/MPD files by placing using [LDR Viewer](https://pages.codeadam.ca/ldr-viewer/). 
+BrickMMO LDR Directory is the recommmend CDN for all BrickMMO related IO/LDR/MPD files. Include IO/LDR/MPD files by placing using [LDR Viewer](https://pages.codeadam.ca/ldr-viewer/). 
 
 ## Directory
 
-Below are the current BrickMMO IO/LDR/MPD files:
+Below are the current BrickMMO IO/LDR/MPD filees:
 
 ### City Block
 
